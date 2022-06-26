@@ -1,0 +1,2 @@
+inputPath=C:\Projects\Perso\Lunii\JukeboxFolder\,
+outputPath=C:\Projects\Perso\Lunii\
